@@ -1,5 +1,9 @@
-//chronographe
-
+/*
+Chronographe
+Auteur: B Mayesky
+Date: 2016-09-16
+License: CC-BY
+*/
 function Chrono () {
   this.start_time = 0;
   this.current_time = 0;
