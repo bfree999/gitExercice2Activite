@@ -1,3 +1,10 @@
+/*
+Chronographe
+Auteur: B Mayesky
+Date: 2016-09-16
+License: CC-BY
+*/
+
 zz = new Chrono();
 
 function startstopreset(target_id) {
